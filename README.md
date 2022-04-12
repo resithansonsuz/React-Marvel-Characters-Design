@@ -2,16 +2,21 @@
 # week2-assignment
 
 *My Responsive Design*
+*Header View*
+
+![banner resmi](screenshots/New.png)
+
+*My Responsive Design*
 *Desktop View*
 
-![banner resmi](screenshots/Screen-Desktop.png)
+![banner resmi](screenshots/desktop.png)
 
 *My Responsive Design*
 *Tablet View*
 
-![banner resmi](screenshots/Screen-Tablet.png)
+![banner resmi](screenshots/tablet.png)
 
 *My Responsive Design*
 *Mobile View*
 
-![banner resmi](screenshots/Screen-Mobile.png)
+![banner resmi](screenshots/mobile.png)
